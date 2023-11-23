@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es-ES" #"en-US"
 title                    : "ARTEC"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -121,7 +121,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/arte.tecnologia.bo/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/arte.tecnologia.bo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
