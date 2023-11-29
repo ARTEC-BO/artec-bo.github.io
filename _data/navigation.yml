@@ -5,8 +5,8 @@ main:
   - title: "Cursos"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
   - title: "Contacto"
-    url: /collection-archive/
+    url: /contacto/
   #- title: "Sitemap"
   #  url: /sitemap/
