@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Nosotros"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /nosotros/
   - title: "Cursos"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /cursos/
   - title: "Blog"
     url: /blog/
   - title: "Contacto"
